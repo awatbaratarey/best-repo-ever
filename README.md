@@ -10,3 +10,4 @@ My Third changeafter checking out branch mysecondfeaturebranch
 
 
 /*Change 1 : Creating condition for conflicts*/
+Pwaat1
