@@ -10,9 +10,8 @@ My Third changeafter checking out branch mysecondfeaturebranch
 
 
 /*Change 1 : Creating condition for conflicts*/
-<<<<<<< HEAD
 
 Pwaat Again 2
-=======
+
 Pwaat1
->>>>>>> master
+
